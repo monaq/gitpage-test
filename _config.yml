@@ -4,3 +4,6 @@ permalink: ':title'
 pygments: true
 safe: false
 title: 'Carte'
+description:    "Minimal Jekyll theme for storytellers"
+baseurl:        "/"
+url:            "https://github.com/monaq/gitpage-test.github.io.git"
